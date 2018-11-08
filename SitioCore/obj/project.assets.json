@@ -4338,6 +4338,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
+          "Microsoft.AspNetCore.Http.Extensions": "2.1.1",
           "Newtonsoft.Json": "11.0.2"
         },
         "compile": {

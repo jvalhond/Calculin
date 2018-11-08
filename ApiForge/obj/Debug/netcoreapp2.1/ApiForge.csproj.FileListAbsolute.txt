@@ -14,14 +14,9 @@ C:\Codigo\Jorge\Arquitectura propuesta\ApiForge\obj\Debug\netcoreapp2.1\ApiForge
 C:\Arquitectura propuesta\ApiForge\bin\Debug\netcoreapp2.1\ApiForge.deps.json
 C:\Arquitectura propuesta\ApiForge\bin\Debug\netcoreapp2.1\ApiForge.dll
 C:\Arquitectura propuesta\ApiForge\bin\Debug\netcoreapp2.1\ApiForge.pdb
-C:\Arquitectura propuesta\ApiForge\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
-C:\Arquitectura propuesta\ApiForge\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Extensions.dll
-C:\Arquitectura propuesta\ApiForge\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.xml
-C:\Arquitectura propuesta\ApiForge\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Extensions.xml
 C:\Arquitectura propuesta\ApiForge\obj\Debug\netcoreapp2.1\ApiForge.csprojAssemblyReference.cache
 C:\Arquitectura propuesta\ApiForge\obj\Debug\netcoreapp2.1\ApiForge.csproj.CoreCompileInputs.cache
 C:\Arquitectura propuesta\ApiForge\obj\Debug\netcoreapp2.1\ApiForge.AssemblyInfoInputs.cache
 C:\Arquitectura propuesta\ApiForge\obj\Debug\netcoreapp2.1\ApiForge.AssemblyInfo.cs
-C:\Arquitectura propuesta\ApiForge\obj\Debug\netcoreapp2.1\ApiForge.csproj.CopyComplete
 C:\Arquitectura propuesta\ApiForge\obj\Debug\netcoreapp2.1\ApiForge.dll
 C:\Arquitectura propuesta\ApiForge\obj\Debug\netcoreapp2.1\ApiForge.pdb
