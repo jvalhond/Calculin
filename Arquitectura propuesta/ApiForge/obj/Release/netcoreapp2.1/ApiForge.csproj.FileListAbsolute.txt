@@ -1,0 +1,9 @@
+C:\Codigo\Jorge\Arquitectura propuesta\ApiForge\bin\Release\netcoreapp2.1\ApiForge.deps.json
+C:\Codigo\Jorge\Arquitectura propuesta\ApiForge\bin\Release\netcoreapp2.1\ApiForge.dll
+C:\Codigo\Jorge\Arquitectura propuesta\ApiForge\bin\Release\netcoreapp2.1\ApiForge.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\ApiForge\obj\Release\netcoreapp2.1\ApiForge.csprojAssemblyReference.cache
+C:\Codigo\Jorge\Arquitectura propuesta\ApiForge\obj\Release\netcoreapp2.1\ApiForge.csproj.CoreCompileInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\ApiForge\obj\Release\netcoreapp2.1\ApiForge.AssemblyInfoInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\ApiForge\obj\Release\netcoreapp2.1\ApiForge.AssemblyInfo.cs
+C:\Codigo\Jorge\Arquitectura propuesta\ApiForge\obj\Release\netcoreapp2.1\ApiForge.dll
+C:\Codigo\Jorge\Arquitectura propuesta\ApiForge\obj\Release\netcoreapp2.1\ApiForge.pdb

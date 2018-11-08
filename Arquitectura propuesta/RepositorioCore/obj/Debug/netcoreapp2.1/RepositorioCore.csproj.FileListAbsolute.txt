@@ -1,0 +1,17 @@
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\bin\Debug\netcoreapp2.1\Paises.csv
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.deps.json
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\bin\Debug\netcoreapp2.1\InfraestructuraCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\bin\Debug\netcoreapp2.1\InfraestructuraCore.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csprojAssemblyReference.cache
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CoreCompileInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfoInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfo.cs
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CopyComplete
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.pdb

@@ -1,0 +1,10 @@
+﻿@model SitioCore.ViewModels.ConversorViewModel
+
+
+<h1 class="text-center">Resultados</h1>
+<div class="jumbotron">
+    <h2>@Model.IdOrigen  >>>>> @Model.IdDestino</h2>
+    <h2>       1         >>>>> @Model.Precio</h2>
+    <h3>@Model.Cantidad  >>>>> @Model.Resultado</h3>
+     <a class="btn btn-success" asp-controller="Home" asp-action="VerMonedas">Ver Monedas</a>
+</div>

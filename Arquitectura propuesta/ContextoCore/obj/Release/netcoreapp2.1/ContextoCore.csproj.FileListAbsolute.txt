@@ -1,0 +1,12 @@
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\bin\Release\netcoreapp2.1\ContextoCore.deps.json
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\bin\Release\netcoreapp2.1\ContextoCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\bin\Release\netcoreapp2.1\ContextoCore.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\bin\Release\netcoreapp2.1\ModeloCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\bin\Release\netcoreapp2.1\ModeloCore.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.csprojAssemblyReference.cache
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.csproj.CoreCompileInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.AssemblyInfoInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.AssemblyInfo.cs
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.csproj.CopyComplete
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.pdb

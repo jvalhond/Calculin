@@ -1,0 +1,13 @@
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\bin\Release\netcoreapp2.1\Paises.csv
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\bin\Release\netcoreapp2.1\InfraestructuraCore.deps.json
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\bin\Release\netcoreapp2.1\InfraestructuraCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\bin\Release\netcoreapp2.1\InfraestructuraCore.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\bin\Release\netcoreapp2.1\ModeloCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\bin\Release\netcoreapp2.1\ModeloCore.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\obj\Release\netcoreapp2.1\InfraestructuraCore.csprojAssemblyReference.cache
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\obj\Release\netcoreapp2.1\InfraestructuraCore.csproj.CoreCompileInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\obj\Release\netcoreapp2.1\InfraestructuraCore.AssemblyInfoInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\obj\Release\netcoreapp2.1\InfraestructuraCore.AssemblyInfo.cs
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\obj\Release\netcoreapp2.1\InfraestructuraCore.csproj.CopyComplete
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\obj\Release\netcoreapp2.1\InfraestructuraCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\InfraestructuraCore\obj\Release\netcoreapp2.1\InfraestructuraCore.pdb

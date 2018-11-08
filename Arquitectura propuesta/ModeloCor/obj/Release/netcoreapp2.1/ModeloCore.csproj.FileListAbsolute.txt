@@ -1,0 +1,9 @@
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\bin\Release\netcoreapp2.1\ModeloCore.deps.json
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\bin\Release\netcoreapp2.1\ModeloCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\bin\Release\netcoreapp2.1\ModeloCore.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\obj\Release\netcoreapp2.1\ModeloCore.csprojAssemblyReference.cache
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\obj\Release\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\obj\Release\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\obj\Release\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\obj\Release\netcoreapp2.1\ModeloCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\obj\Release\netcoreapp2.1\ModeloCore.pdb
