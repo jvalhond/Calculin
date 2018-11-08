@@ -1,0 +1,16 @@
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\bin\Debug\netcoreapp2.1\ModeloCore.deps.json
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\obj\Debug\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\obj\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Codigo\Jorge\Arquitectura propuesta\ModeloCor\obj\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Arquitectura propuesta\ModeloCor\bin\Debug\netcoreapp2.1\ModeloCore.deps.json
+C:\Arquitectura propuesta\ModeloCor\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Arquitectura propuesta\ModeloCor\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Arquitectura propuesta\ModeloCor\obj\Debug\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+C:\Arquitectura propuesta\ModeloCor\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+C:\Arquitectura propuesta\ModeloCor\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+C:\Arquitectura propuesta\ModeloCor\obj\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Arquitectura propuesta\ModeloCor\obj\Debug\netcoreapp2.1\ModeloCore.pdb

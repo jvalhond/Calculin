@@ -1,0 +1,28 @@
+c:\codigo\pruebas\Comun\Comun\bin\Debug\Comun.dll
+c:\codigo\pruebas\Comun\Comun\bin\Debug\Comun.pdb
+c:\codigo\pruebas\Comun\Comun\obj\Debug\Comun.csprojAssemblyReference.cache
+c:\codigo\pruebas\Comun\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+c:\codigo\pruebas\Comun\Comun\obj\Debug\Comun.dll
+c:\codigo\pruebas\Comun\Comun\obj\Debug\Comun.pdb
+C:\CodigoCurso\ArquitecturaPropuesta\Comun\bin\Debug\Comun.dll
+C:\CodigoCurso\ArquitecturaPropuesta\Comun\bin\Debug\Comun.pdb
+C:\CodigoCurso\ArquitecturaPropuesta\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\CodigoCurso\ArquitecturaPropuesta\Comun\obj\Debug\Comun.dll
+C:\CodigoCurso\ArquitecturaPropuesta\Comun\obj\Debug\Comun.pdb
+C:\Curso\Proyecto\ArquitecturaPropuesta\Comun\bin\Debug\Comun.dll
+C:\Curso\Proyecto\ArquitecturaPropuesta\Comun\bin\Debug\Comun.pdb
+C:\Curso\Proyecto\ArquitecturaPropuesta\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Curso\Proyecto\ArquitecturaPropuesta\Comun\obj\Debug\Comun.dll
+C:\Curso\Proyecto\ArquitecturaPropuesta\Comun\obj\Debug\Comun.pdb
+C:\Curso\Proyecto\ArquitecturaPropuesta\Comun\obj\Debug\Comun.csprojAssemblyReference.cache
+C:\Proyectos\Proyecto\Arquitectura propuesta\Comun\bin\Debug\Comun.dll
+C:\Proyectos\Proyecto\Arquitectura propuesta\Comun\bin\Debug\Comun.pdb
+C:\Proyectos\Proyecto\Arquitectura propuesta\Comun\obj\Debug\Comun.csprojAssemblyReference.cache
+C:\Proyectos\Proyecto\Arquitectura propuesta\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyecto\Arquitectura propuesta\Comun\obj\Debug\Comun.dll
+C:\Proyectos\Proyecto\Arquitectura propuesta\Comun\obj\Debug\Comun.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\Comun\bin\Debug\Comun.dll
+C:\Codigo\Jorge\Arquitectura propuesta\Comun\bin\Debug\Comun.pdb
+C:\Codigo\Jorge\Arquitectura propuesta\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Codigo\Jorge\Arquitectura propuesta\Comun\obj\Debug\Comun.dll
+C:\Codigo\Jorge\Arquitectura propuesta\Comun\obj\Debug\Comun.pdb
